@@ -1,0 +1,12 @@
+.food-list {
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: space-evenly
+}
+
+div {
+    border: 1px solid goldenrod;
+    padding: 10px;
+    width: 300px;
+    margin-bottom: 10px
+} 

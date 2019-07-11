@@ -1,0 +1,46 @@
+{
+  "food": [
+    {
+      "id": 1,
+      "name": "Linguine",
+      "category": "pasta",
+      "ethnicity": "Italian",
+      "barcode": "0029737500225"
+    },
+    {
+      "id": 2,
+      "name": "Massaman curry",
+      "category": "curry",
+      "ethnicity": "Thai",
+      "barcode": "0856660005066"
+    },
+    {
+      "id": 3,
+      "name": "Green curry",
+      "category": "curry",
+      "ethnicity": "Thai",
+      "barcode": "0042272009787"
+    },
+    {
+      "id": 4,
+      "name": "Ravioli Funghi",
+      "category": "pasta",
+      "ethnicity": "Italian",
+      "barcode": "0760236398493"
+    },
+    {
+      "id": 5,
+      "name": "Tuscan Soup",
+      "category": "vegetarian",
+      "ethnicity": "Italian",
+      "barcode": "0033150001153"
+    },
+    {
+      "name": "Pad Thai",
+      "category": "pasta",
+      "ethnicity": "Thai",
+      "id": 6,
+      "barcode": "0030650600053"
+    }
+  ]
+}
